@@ -1,4 +1,4 @@
-# Profile
+Mehmethan AYTEKELİ
 <h2 align="left">Hi ⚡! My name is Mehmethan and I am studying electrical and electronics engineering.</h2>
 
 ###
