@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"  />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:496/0*Kf8Cv4yPJLP8gJ0t.gif"  />
 
 ###
 
@@ -61,11 +61,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mehmethanaytekeli/mehmethanaytekeli/output/snake.svg" alt="Snake animation" />
 
 ###
