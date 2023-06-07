@@ -63,3 +63,5 @@
 </div>
 
 ###
+[![Image of Profile-Views-Counter](https://github.com/mehmethanaytekeli/Profile-Views-Counter/blob/master/svg/650642365/badge.svg)](https://github.com/mehmethanaytekeli/Profile-Views-Counter/blob/master/readme/650642365/week.md)
+# Profile-Views-Counter [<img alt="Image of Profile-Views-Counter" src="https://github.com/mehmethanaytekeli/Profile-Views-Counter/blob/master/graph/650642365/small/year.png" height="20">](https://github.com/mehmethanaytekeli/Profile-Views-Counter/blob/master/readme/650642365/year.md)
