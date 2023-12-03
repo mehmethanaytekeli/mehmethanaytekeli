@@ -63,5 +63,5 @@
 </div>
 
 ###
-[![Image of Profile-Views-Counter](https://github.com/mehmethanaytekeli/Profile-Views-Counter/blob/master/svg/650642365/badge.svg)](https://github.com/mehmethanaytekeli/Profile-Views-Counter/blob/master/readme/650642365/week.md)
+
 
