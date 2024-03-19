@@ -60,8 +60,9 @@
   <a href="https://twitter.com/MehmethanAytkl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <h2 align="left">Hi ⚡! My name is Mehmethan and I am studying electrical and electronics engineering.</h2>
+
 </div>
+<h2 align="left">Hi ⚡! My name is Mehmethan and I am studying electrical and electronics engineering.</h2>
 
 ###
 ![Visitor Count](https://profile-counter.glitch.me/mehmethanaytekeli/count.svg)
