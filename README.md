@@ -62,7 +62,7 @@
   </a>
 
 </div>
-<h2 align="left">You Are Visitor</h2>
+###
 <table>
   <tr>
     <td>You are visitor</td>
@@ -70,8 +70,6 @@
   </tr>
 </table>
 
-###
-![Visitor Count](https://profile-counter.glitch.me/mehmethanaytekeli/count.svg)
 ![Snake animation](https://raw.githubusercontent.com/mehmethanaytekeli/mehmethanaytekeli/output/github-contribution-grid-snake-dark.svg)
 
 
