@@ -63,6 +63,12 @@
 
 </div>
 <h2 align="left">You Are Visitor</h2>
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/mehmethanaytekeli/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 ###
 ![Visitor Count](https://profile-counter.glitch.me/mehmethanaytekeli/count.svg)
