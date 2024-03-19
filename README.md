@@ -62,7 +62,7 @@
   </a>
 
 </div>
-<h2 align="left">Hi ⚡! My name is Mehmethan and I am studying electrical and electronics engineering.</h2>
+<h2 align="left">You Are Visitor</h2>
 
 ###
 ![Visitor Count](https://profile-counter.glitch.me/mehmethanaytekeli/count.svg)
